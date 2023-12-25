@@ -3,15 +3,15 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <a href="https://twitter.com/shafraz saliheen" target="blank"><img src="https://img.shields.io/twitter/follow/shafraz saliheen?logo=twitter&style=for-the-badge" alt="shafraz saliheen" /></a> </p>
 
-- 🔭 I’m currently working on **Online hotel booking**
+- 🔭 I’m currently working on Web application developments
 
-- 🌱 I’m currently learning **Vuejs, AI, .NET**
+- 🌱 I’m currently learning **Flutter, .NET**
 
 - 👯 I’m looking to collaborate on **Innovative software projects**
 
-- 🤝 I’m looking for help with **projects via I can enhance my skills**
+- 🤝 I’m looking for help with **projects via that I can enhance my skills**
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **react, node, react native**
 
 - 📫 How to reach me **safrassaliheen456@gmail.com**
 
